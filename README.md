@@ -7,5 +7,5 @@ to make a guess and whoever got the closest would win some prize. I thought it w
 Install library: pip install opencv-python
 
 ## Correct Output
-Tall Glass: 68 gumballs
-Short Glass: 47 gumballs 
+- Tall Glass: 68 gumballs
+- Short Glass: 47 gumballs 
